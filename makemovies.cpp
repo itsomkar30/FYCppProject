@@ -923,7 +923,7 @@ reexit:
         cout << "Termination point...\n";
         // cout << "\n";
         // system("pause");
-        cout << "\n\n\t\t\t\t\tProject by Prajjval, Omkar, Mahesh, Aditya, Ameya, Saurabh\n\n\n";
+        cout << "\n\n\t\t\t\t\tProject by Omkar & Prajjval\n\n\n";
         // cout << "\n";
         sleep(2);
         cout << "\n\n";
