@@ -2,7 +2,7 @@
 
 **The above project was coded in Visual Studio Code along with the MinGw-w64 version 12.2.0 It may cause errors in other IDE's**
 
-**Also thank to github.com/prajjvaljaiswal for helping me in this project as a contributor**
+**Also thank to [Prajjval](https://github.com/prajjvaljaiswal) for helping me in this project as a contributor**
 
 **Introduction**
 
